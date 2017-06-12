@@ -9,10 +9,8 @@ body {
     justify-content: center;
     align-items: center;
 }
-.submit {
-    margin: 10px;
-}
-.container, .container-fluid{
+
+.container, .container-fluid {
     height: 100%;
     display: flex;
     justify-content: center;
